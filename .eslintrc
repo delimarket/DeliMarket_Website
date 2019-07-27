@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "eslint-config-airbnb"
+  ],
+  "rules": {
+    "react/jsx-filename-extension": "off",
+    "quotes": "off",
+    "react/prop-types": "off",
+    "react/prefer-stateless-function": "off",
+    "react/destructuring-assignment": "off",
+    "operator-linebreak": "off",
+    "no-confusing-arrow": "off"
+  }
+}
